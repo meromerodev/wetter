@@ -11,7 +11,8 @@
     <div class="hero is-fullheight is-dark is-bold">
       <div class="container has-text-centered">
         <div class="content is-small">
-          Hier der Ort und das Datum
+          Hier der Ort und das Datum 
+          /** 38242 Berlin */
         </div>
 
       <div class="rel state">
